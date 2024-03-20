@@ -10,7 +10,7 @@ requires = [
 test_dependencies = [
     "apispec_webframeworks",
     "apispec[yaml]",
-    "black==22.8.0",
+    "black==24.3.0",
     "flake8",
     "flask",
     "isort",
